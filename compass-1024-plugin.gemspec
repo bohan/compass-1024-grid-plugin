@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
     "templates/project/manifest.rb",
     "templates/project/text.sass"
   ]
-  s.homepage = %q{http://github.com/bohan3d/compass-1024-plugin}
+  s.homepage = %q{http://github.com/bohan/compass-1024-grid-plugin}
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{compass-1024-plugin}
   s.rubygems_version = %q{1.3.6}
