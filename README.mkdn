@@ -105,4 +105,4 @@ Authors/Contributors
 
 [Chris Eppstein](http://chriseppstein.github.com/) is the creator of Compass, a core contributor to Sass and the father of this plugin.
 
-[Jesse Cofie (Maze 0sl0)](http://github.com/bohan3d)  is the author of this plugin is based on the 960.gs by Nathan Simth.
+[Jesse Cofie (Maze 0sl0)](http://github.com/bohan3d) is the author of this plugin and is based on the 960.gs by Nathan Simth.
